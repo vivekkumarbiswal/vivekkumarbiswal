@@ -1,13 +1,13 @@
-# Hi there, I'm Vivek Kumar Biswal 👋  
+# Hi there, I'm Vivek Kumar Biswal 
 
-🚀 **Front-End Developer | 3+ Years Experience**  
+**Front-End Developer | 3+ Years Experience**  
 
 I’m a passionate **Frontend Developer** specializing in building responsive, scalable, and user-friendly applications.  
 With 3+ years of hands-on experience, I love crafting intuitive interfaces using modern frameworks and tools.  
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 
 - **Frontend:** Angular, Angular Material-UI, TypeScript, JavaScript, HTML, CSS, SCSS/SASS  
 - **Backend & Database:** SQL, Python  
@@ -15,7 +15,7 @@ With 3+ years of hands-on experience, I love crafting intuitive interfaces using
 
 ---
 
-## 💼 Professional Experience  
+## Professional Experience  
 
 - **Front-End Development**: Designed and developed responsive UIs with Angular and Angular Material-UI.  
 - **Cross-Platform Development**: Worked on projects leveraging **Ionic & Capacitor** for mobile compatibility.  
@@ -24,7 +24,7 @@ With 3+ years of hands-on experience, I love crafting intuitive interfaces using
 
 ---
 
-## 🌟 Key Projects  
+## Key Projects  
 
 - **MyBank Spain (Deutsche Bank, TCS Interactive)**  
   - Rebranded and optimized banking application with **Angular & Ionic**.  
@@ -40,21 +40,21 @@ With 3+ years of hands-on experience, I love crafting intuitive interfaces using
 
 ---
 
-## 🏆 Achievements  
+## Achievements  
 
 - ⭐ **TCS: Star Team Award (2022)** for outstanding collaboration.  
 - 🏅 TCS: Recognized with multiple appreciation certificates for continuous contributions.  
 
 ---
 
-## 🎓 Education  
+## Education  
 
 **Master of Computer Applications (MCA)**  
 BIT, CSVTU Chhattisgarh | 2018 - 2021  
 
 ---
 
-## 📫 Let’s Connect  
+## Let’s Connect  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
 - 📧 vivekkumarbiswal@gmail.com  
