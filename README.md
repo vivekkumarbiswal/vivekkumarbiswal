@@ -1,9 +1,12 @@
 # Hi there, I'm Vivek Kumar Biswal 
 
-**Front-End Developer | 3+ Years Experience**  
+**Front-End Developer | 4 Years Experience**  
 
-I’m a passionate **Frontend Developer** specializing in building responsive, scalable, and user-friendly applications.  
-With 3+ years of hands-on experience, I love crafting intuitive interfaces using modern frameworks and tools.  
+- Experienced in building **enterprise Angular applications**
+- Strong experience with **PWA, Ionic, and Capacitor**
+- Passionate about **performance optimization and accessibility**
+- Experienced working in **Agile teams across full SDLC**
+- Recognized with **Star Team Award for project delivery** 
 
 ---
 
