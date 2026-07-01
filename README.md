@@ -1,6 +1,6 @@
 # Hi there, I'm Vivek Kumar Biswal 
 
-**Front-End Developer | 4 Years Experience**  
+**Front-End Developer | 4+ Years Experience**  
 
 - Experienced in building **enterprise Angular applications**
 - Strong experience with **PWA, Ionic, and Capacitor**
